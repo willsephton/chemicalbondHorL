@@ -38,17 +38,19 @@ function getRandomBonds(exclude = null) {
 
 // Start or continue the game
 app.get('/', (req, res) => {
-  if (!req.session.score) {
+  if (!req.session.score && req.session.score !== 0) {
     // Start a new game
     const [bond1, bond2] = getRandomBonds();
     req.session.bond1 = bond1;
     req.session.bond2 = bond2;
     req.session.score = 0;
+    req.session.lives = 3;  // <-- Add lives here
   }
   res.render('index', {
     bond1: req.session.bond1,
     bond2: req.session.bond2,
-    score: req.session.score
+    score: req.session.score,
+    lives: req.session.lives  // pass lives to the template
   });
 });
 
@@ -71,12 +73,20 @@ app.get('/guess/:choice', (req, res) => {
     req.session.bond2 = newBond2;
     res.redirect('/');
   } else {
-    const finalScore = req.session.score;
-    req.session.destroy(() => {
-      res.render('result', { b1, b2, isCorrect: false, score: finalScore });
-    });
+    req.session.lives--;
+    if (req.session.lives > 0) {
+      // Continue game but with fewer lives
+      res.redirect('/');
+    } else {
+      // Game over
+      const finalScore = req.session.score;
+      req.session.destroy(() => {
+        res.render('result', { b1, b2, isCorrect: false, score: finalScore });
+      });
+    }
   }
 });
+
 
 
 // Restart game manually
