@@ -12,7 +12,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Load bond data
-const bondData = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'bonds.json'), 'utf-8'));
+const bondData = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'bonds_large.json'), 'utf-8'));
 
 // View engine setup
 app.set('view engine', 'ejs');

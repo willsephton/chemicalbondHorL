@@ -1,7 +1,0 @@
-[
-  { "name": "Ionic Bond", "strength": 1000 },
-  { "name": "Covalent Bond", "strength": 400 },
-  { "name": "Hydrogen Bond", "strength": 20 },
-  { "name": "Van der Waals", "strength": 5 },
-  { "name": "Metallic Bond", "strength": 300 }
-]
