@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Game Over</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <h1>Game Over!</h1>
+  
+  <div class="bonds">
+    <div><strong><%= b1.name %></strong>: <%= b1.strength %> kJ/mol</div>
+    <div><strong><%= b2.name %></strong>: <%= b2.strength %> kJ/mol</div>
+  </div>
+
+  <p>Your final score: <strong><%= score %></strong></p>
+
+  <a href="/restart">Play Again</a>
+</body>
+</html>

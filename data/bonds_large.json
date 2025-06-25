@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Ionic Bond (NaCl)",
+    "strength": 1098
+  },
+  {
+    "name": "Ionic Bond (KBr)",
+    "strength": 1220
+  },
+  {
+    "name": "Ionic Bond (CaF2)",
+    "strength": 1188
+  },
+  {
+    "name": "Ionic Bond (MgO)",
+    "strength": 1160
+  },
+  {
+    "name": "Ionic Bond (LiF)",
+    "strength": 919
+  },
+  {
+    "name": "Ionic Bond (CsCl)",
+    "strength": 1004
+  },
+  {
+    "name": "Ionic Bond (RbI)",
+    "strength": 1080
+  },
+  {
+    "name": "Ionic Bond (BaO)",
+    "strength": 1215
+  },
+  {
+    "name": "Ionic Bond (SrF2)",
+    "strength": 1080
+  },
+  {
+    "name": "Ionic Bond (Al2O3)",
+    "strength": 889
+  },
+  {
+    "name": "Ionic Bond (NaCl)",
+    "strength": 1136
+  },
+  {
+    "name": "Ionic Bond (KBr)",
+    "strength": 1148
+  },
+  {
+    "name": "Ionic Bond (CaF2)",
+    "strength": 1138
+  },
+  {
+    "name": "Ionic Bond (MgO)",
+    "strength": 1142
+  },
+  {
+    "name": "Ionic Bond (LiF)",
+    "strength": 1215
+  },
+  {
+    "name": "Ionic Bond (CsCl)",
+    "strength": 1120
+  },
+  {
+    "name": "Ionic Bond (RbI)",
+    "strength": 1151
+  },
+  {
+    "name": "Ionic Bond (BaO)",
+    "strength": 907
+  },
+  {
+    "name": "Ionic Bond (SrF2)",
+    "strength": 1043
+  },
+  {
+    "name": "Ionic Bond (Al2O3)",
+    "strength": 1070
+  },
+  {
+    "name": "Ionic Bond (NaCl)",
+    "strength": 921
+  },
+  {
+    "name": "Ionic Bond (KBr)",
+    "strength": 945
+  },
+  {
+    "name": "Ionic Bond (CaF2)",
+    "strength": 1132
+  },
+  {
+    "name": "Ionic Bond (MgO)",
+    "strength": 1249
+  },
+  {
+    "name": "Ionic Bond (LiF)",
+    "strength": 1013
+  },
+  {
+    "name": "Ionic Bond (CsCl)",
+    "strength": 1162
+  },
+  {
+    "name": "Ionic Bond (RbI)",
+    "strength": 1077
+  },
+  {
+    "name": "Ionic Bond (BaO)",
+    "strength": 1047
+  },
+  {
+    "name": "Ionic Bond (SrF2)",
+    "strength": 1103
+  },
+  {
+    "name": "Ionic Bond (Al2O3)",
+    "strength": 1132
+  },
+  {
+    "name": "Covalent Bond (Single) (H-H)",
+    "strength": 358
+  },
+  {
+    "name": "Covalent Bond (Single) (C-C)",
+    "strength": 380
+  },
+  {
+    "name": "Covalent Bond (Single) (C-H)",
+    "strength": 292
+  },
+  {
+    "name": "Covalent Bond (Single) (N-H)",
+    "strength": 335
+  },
+  {
+    "name": "Covalent Bond (Single) (O-H)",
+    "strength": 335
+  },
+  {
+    "name": "Covalent Bond (Single) (S-H)",
+    "strength": 310
+  },
+  {
+    "name": "Covalent Bond (Single) (P-H)",
+    "strength": 337
+  },
+  {
+    "name": "Covalent Bond (Single) (Si-H)",
+    "strength": 344
+  },
+  {
+    "name": "Covalent Bond (Single) (F-H)",
+    "strength": 397
+  },
+  {
+    "name": "Covalent Bond (Single) (Cl-H)",
+    "strength": 372
+  },
+  {
+    "name": "Covalent Bond (Single) (H-H)",
+    "strength": 318
+  },
+  {
+    "name": "Covalent Bond (Single) (C-C)",
+    "strength": 401
+  },
+  {
+    "name": "Covalent Bond (Single) (C-H)",
+    "strength": 345
+  },
+  {
+    "name": "Covalent Bond (Single) (N-H)",
+    "strength": 385
+  },
+  {
+    "name": "Covalent Bond (Single) (O-H)",
+    "strength": 352
+  },
+  {
+    "name": "Covalent Bond (Single) (S-H)",
+    "strength": 309
+  },
+  {
+    "name": "Covalent Bond (Single) (P-H)",
+    "strength": 336
+  },
+  {
+    "name": "Covalent Bond (Single) (Si-H)",
+    "strength": 386
+  },
+  {
+    "name": "Covalent Bond (Single) (F-H)",
+    "strength": 394
+  },
+  {
+    "name": "Covalent Bond (Single) (Cl-H)",
+    "strength": 315
+  },
+  {
+    "name": "Covalent Bond (Single) (H-H)",
+    "strength": 351
+  },
+  {
+    "name": "Covalent Bond (Single) (C-C)",
+    "strength": 299
+  },
+  {
+    "name": "Covalent Bond (Single) (C-H)",
+    "strength": 325
+  },
+  {
+    "name": "Covalent Bond (Single) (N-H)",
+    "strength": 311
+  },
+  {
+    "name": "Covalent Bond (Single) (O-H)",
+    "strength": 314
+  },
+  {
+    "name": "Covalent Bond (Single) (S-H)",
+    "strength": 344
+  },
+  {
+    "name": "Covalent Bond (Single) (P-H)",
+    "strength": 353
+  },
+  {
+    "name": "Covalent Bond (Single) (Si-H)",
+    "strength": 392
+  },
+  {
+    "name": "Covalent Bond (Single) (F-H)",
+    "strength": 366
+  },
+  {
+    "name": "Covalent Bond (Single) (Cl-H)",
+    "strength": 381
+  },
+  {
+    "name": "Covalent Bond (Single) (H-H)",
+    "strength": 370
+  },
+  {
+    "name": "Covalent Bond (Single) (C-C)",
+    "strength": 359
+  },
+  {
+    "name": "Covalent Bond (Single) (C-H)",
+    "strength": 353
+  },
+  {
+    "name": "Covalent Bond (Single) (N-H)",
+    "strength": 394
+  },
+  {
+    "name": "Covalent Bond (Single) (O-H)",
+    "strength": 386
+  },
+  {
+    "name": "Covalent Bond (Single) (S-H)",
+    "strength": 296
+  },
+  {
+    "name": "Covalent Bond (Single) (P-H)",
+    "strength": 392
+  },
+  {
+    "name": "Covalent Bond (Single) (Si-H)",
+    "strength": 389
+  },
+  {
+    "name": "Covalent Bond (Single) (F-H)",
+    "strength": 329
+  },
+  {
+    "name": "Covalent Bond (Single) (Cl-H)",
+    "strength": 313
+  },
+  {
+    "name": "Covalent Bond (Single) (H-H)",
+    "strength": 412
+  },
+  {
+    "name": "Covalent Bond (Single) (C-C)",
+    "strength": 308
+  },
+  {
+    "name": "Covalent Bond (Single) (C-H)",
+    "strength": 334
+  },
+  {
+    "name": "Covalent Bond (Single) (N-H)",
+    "strength": 293
+  },
+  {
+    "name": "Covalent Bond (Single) (O-H)",
+    "strength": 313
+  },
+  {
+    "name": "Covalent Bond (Single) (S-H)",
+    "strength": 364
+  },
+  {
+    "name": "Covalent Bond (Single) (P-H)",
+    "strength": 308
+  },
+  {
+    "name": "Covalent Bond (Single) (Si-H)",
+    "strength": 355
+  },
+  {
+    "name": "Covalent Bond (Single) (F-H)",
+    "strength": 363
+  },
+  {
+    "name": "Covalent Bond (Single) (Cl-H)",
+    "strength": 401
+  },
+  {
+    "name": "Covalent Bond (Double) (O=O)",
+    "strength": 707
+  },
+  {
+    "name": "Covalent Bond (Double) (C=C)",
+    "strength": 637
+  },
+  {
+    "name": "Covalent Bond (Double) (S=O)",
+    "strength": 625
+  },
+  {
+    "name": "Covalent Bond (Double) (C=O)",
+    "strength": 594
+  },
+  {
+    "name": "Covalent Bond (Double) (N=O)",
+    "strength": 639
+  },
+  {
+    "name": "Covalent Bond (Double) (P=O)",
+    "strength": 677
+  },
+  {
+    "name": "Covalent Bond (Double) (Si=O)",
+    "strength": 718
+  },
+  {
+    "name": "Covalent Bond (Double) (C=N)",
+    "strength": 631
+  },
+  {
+    "name": "Covalent Bond (Double) (C=S)",
+    "strength": 645
+  },
+  {
+    "name": "Covalent Bond (Double) (N=S)",
+    "strength": 683
+  },
+  {
+    "name": "Covalent Bond (Double) (O=O)",
+    "strength": 665
+  },
+  {
+    "name": "Covalent Bond (Double) (C=C)",
+    "strength": 668
+  },
+  {
+    "name": "Covalent Bond (Double) (S=O)",
+    "strength": 659
+  },
+  {
+    "name": "Covalent Bond (Double) (C=O)",
+    "strength": 641
+  },
+  {
+    "name": "Covalent Bond (Double) (N=O)",
+    "strength": 657
+  },
+  {
+    "name": "Covalent Bond (Double) (P=O)",
+    "strength": 640
+  },
+  {
+    "name": "Covalent Bond (Double) (Si=O)",
+    "strength": 625
+  },
+  {
+    "name": "Covalent Bond (Double) (C=N)",
+    "strength": 676
+  },
+  {
+    "name": "Covalent Bond (Double) (C=S)",
+    "strength": 662
+  },
+  {
+    "name": "Covalent Bond (Double) (N=S)",
+    "strength": 581
+  },
+  {
+    "name": "Covalent Bond (Double) (O=O)",
+    "strength": 657
+  },
+  {
+    "name": "Covalent Bond (Double) (C=C)",
+    "strength": 614
+  },
+  {
+    "name": "Covalent Bond (Double) (S=O)",
+    "strength": 705
+  },
+  {
+    "name": "Covalent Bond (Double) (C=O)",
+    "strength": 683
+  },
+  {
+    "name": "Covalent Bond (Double) (N=O)",
+    "strength": 670
+  },
+  {
+    "name": "Covalent Bond (Double) (P=O)",
+    "strength": 600
+  },
+  {
+    "name": "Covalent Bond (Double) (Si=O)",
+    "strength": 668
+  },
+  {
+    "name": "Covalent Bond (Double) (C=N)",
+    "strength": 628
+  },
+  {
+    "name": "Covalent Bond (Double) (C=S)",
+    "strength": 652
+  },
+  {
+    "name": "Covalent Bond (Double) (N=S)",
+    "strength": 691
+  },
+  {
+    "name": "Covalent Bond (Double) (O=O)",
+    "strength": 602
+  },
+  {
+    "name": "Covalent Bond (Double) (C=C)",
+    "strength": 710
+  },
+  {
+    "name": "Covalent Bond (Double) (S=O)",
+    "strength": 643
+  },
+  {
+    "name": "Covalent Bond (Double) (C=O)",
+    "strength": 703
+  },
+  {
+    "name": "Covalent Bond (Double) (N=O)",
+    "strength": 679
+  },
+  {
+    "name": "Covalent Bond (Double) (P=O)",
+    "strength": 701
+  },
+  {
+    "name": "Covalent Bond (Double) (Si=O)",
+    "strength": 646
+  },
+  {
+    "name": "Covalent Bond (Double) (C=N)",
+    "strength": 686
+  },
+  {
+    "name": "Covalent Bond (Double) (C=S)",
+    "strength": 613
+  },
+  {
+    "name": "Covalent Bond (Double) (N=S)",
+    "strength": 682
+  },
+  {
+    "name": "Covalent Bond (Triple) (N\u2261N)",
+    "strength": 967
+  },
+  {
+    "name": "Covalent Bond (Triple) (C\u2261C)",
+    "strength": 958
+  },
+  {
+    "name": "Covalent Bond (Triple) (C\u2261N)",
+    "strength": 891
+  },
+  {
+    "name": "Covalent Bond (Triple) (B\u2261N)",
+    "strength": 898
+  },
+  {
+    "name": "Covalent Bond (Triple) (Si\u2261N)",
+    "strength": 959
+  },
+  {
+    "name": "Covalent Bond (Triple) (N\u2261N)",
+    "strength": 1003
+  },
+  {
+    "name": "Covalent Bond (Triple) (C\u2261C)",
+    "strength": 945
+  },
+  {
+    "name": "Covalent Bond (Triple) (C\u2261N)",
+    "strength": 945
+  },
+  {
+    "name": "Covalent Bond (Triple) (B\u2261N)",
+    "strength": 976
+  },
+  {
+    "name": "Covalent Bond (Triple) (Si\u2261N)",
+    "strength": 907
+  },
+  {
+    "name": "Covalent Bond (Triple) (N\u2261N)",
+    "strength": 908
+  },
+  {
+    "name": "Covalent Bond (Triple) (C\u2261C)",
+    "strength": 925
+  },
+  {
+    "name": "Covalent Bond (Triple) (C\u2261N)",
+    "strength": 861
+  },
+  {
+    "name": "Covalent Bond (Triple) (B\u2261N)",
+    "strength": 970
+  },
+  {
+    "name": "Covalent Bond (Triple) (Si\u2261N)",
+    "strength": 948
+  },
+  {
+    "name": "Covalent Bond (Triple) (N\u2261N)",
+    "strength": 948
+  },
+  {
+    "name": "Covalent Bond (Triple) (C\u2261C)",
+    "strength": 1008
+  },
+  {
+    "name": "Covalent Bond (Triple) (C\u2261N)",
+    "strength": 942
+  },
+  {
+    "name": "Covalent Bond (Triple) (B\u2261N)",
+    "strength": 941
+  },
+  {
+    "name": "Covalent Bond (Triple) (Si\u2261N)",
+    "strength": 941
+  },
+  {
+    "name": "Hydrogen Bond (Water)",
+    "strength": 16
+  },
+  {
+    "name": "Hydrogen Bond (Ammonia)",
+    "strength": 18
+  },
+  {
+    "name": "Hydrogen Bond (HF)",
+    "strength": 18
+  },
+  {
+    "name": "Hydrogen Bond (Ethanol)",
+    "strength": 20
+  },
+  {
+    "name": "Hydrogen Bond (DNA Base Pair)",
+    "strength": 26
+  },
+  {
+    "name": "Hydrogen Bond (Protein)",
+    "strength": 17
+  },
+  {
+    "name": "Hydrogen Bond (Alcohol)",
+    "strength": 28
+  },
+  {
+    "name": "Hydrogen Bond (Carboxyl)",
+    "strength": 26
+  },
+  {
+    "name": "Hydrogen Bond (Amide)",
+    "strength": 23
+  },
+  {
+    "name": "Hydrogen Bond (Phenol)",
+    "strength": 23
+  },
+  {
+    "name": "Hydrogen Bond (Water)",
+    "strength": 21
+  },
+  {
+    "name": "Hydrogen Bond (Ammonia)",
+    "strength": 28
+  },
+  {
+    "name": "Hydrogen Bond (HF)",
+    "strength": 22
+  },
+  {
+    "name": "Hydrogen Bond (Ethanol)",
+    "strength": 24
+  },
+  {
+    "name": "Hydrogen Bond (DNA Base Pair)",
+    "strength": 22
+  },
+  {
+    "name": "Hydrogen Bond (Protein)",
+    "strength": 16
+  },
+  {
+    "name": "Hydrogen Bond (Alcohol)",
+    "strength": 25
+  },
+  {
+    "name": "Hydrogen Bond (Carboxyl)",
+    "strength": 23
+  },
+  {
+    "name": "Hydrogen Bond (Amide)",
+    "strength": 24
+  },
+  {
+    "name": "Hydrogen Bond (Phenol)",
+    "strength": 30
+  },
+  {
+    "name": "Hydrogen Bond (Water)",
+    "strength": 25
+  },
+  {
+    "name": "Hydrogen Bond (Ammonia)",
+    "strength": 29
+  },
+  {
+    "name": "Hydrogen Bond (HF)",
+    "strength": 18
+  },
+  {
+    "name": "Hydrogen Bond (Ethanol)",
+    "strength": 28
+  },
+  {
+    "name": "Hydrogen Bond (DNA Base Pair)",
+    "strength": 16
+  },
+  {
+    "name": "Hydrogen Bond (Protein)",
+    "strength": 21
+  },
+  {
+    "name": "Hydrogen Bond (Alcohol)",
+    "strength": 24
+  },
+  {
+    "name": "Hydrogen Bond (Carboxyl)",
+    "strength": 20
+  },
+  {
+    "name": "Hydrogen Bond (Amide)",
+    "strength": 22
+  },
+  {
+    "name": "Hydrogen Bond (Phenol)",
+    "strength": 20
+  },
+  {
+    "name": "Van der Waals (Methane)",
+    "strength": 4
+  },
+  {
+    "name": "Van der Waals (Benzene)",
+    "strength": 9
+  },
+  {
+    "name": "Van der Waals (Graphite Layers)",
+    "strength": 4
+  },
+  {
+    "name": "Van der Waals (Noble Gases)",
+    "strength": 7
+  },
+  {
+    "name": "Van der Waals (Alkanes)",
+    "strength": 7
+  },
+  {
+    "name": "Van der Waals (Alkenes)",
+    "strength": 9
+  },
+  {
+    "name": "Van der Waals (Alkynes)",
+    "strength": 6
+  },
+  {
+    "name": "Van der Waals (Polyethylene)",
+    "strength": 3
+  },
+  {
+    "name": "Van der Waals (Polystyrene)",
+    "strength": 4
+  },
+  {
+    "name": "Van der Waals (Wax)",
+    "strength": 3
+  },
+  {
+    "name": "Van der Waals (Methane)",
+    "strength": 7
+  },
+  {
+    "name": "Van der Waals (Benzene)",
+    "strength": 6
+  },
+  {
+    "name": "Van der Waals (Graphite Layers)",
+    "strength": 8
+  },
+  {
+    "name": "Van der Waals (Noble Gases)",
+    "strength": 7
+  },
+  {
+    "name": "Van der Waals (Alkanes)",
+    "strength": 3
+  },
+  {
+    "name": "Metallic Bond (Iron)",
+    "strength": 302
+  },
+  {
+    "name": "Metallic Bond (Copper)",
+    "strength": 296
+  },
+  {
+    "name": "Metallic Bond (Aluminum)",
+    "strength": 265
+  },
+  {
+    "name": "Metallic Bond (Gold)",
+    "strength": 359
+  },
+  {
+    "name": "Metallic Bond (Silver)",
+    "strength": 332
+  },
+  {
+    "name": "Metallic Bond (Titanium)",
+    "strength": 265
+  },
+  {
+    "name": "Metallic Bond (Nickel)",
+    "strength": 282
+  },
+  {
+    "name": "Metallic Bond (Zinc)",
+    "strength": 292
+  },
+  {
+    "name": "Metallic Bond (Magnesium)",
+    "strength": 279
+  },
+  {
+    "name": "Metallic Bond (Lead)",
+    "strength": 303
+  },
+  {
+    "name": "Metallic Bond (Iron)",
+    "strength": 346
+  },
+  {
+    "name": "Metallic Bond (Copper)",
+    "strength": 291
+  },
+  {
+    "name": "Metallic Bond (Aluminum)",
+    "strength": 277
+  },
+  {
+    "name": "Metallic Bond (Gold)",
+    "strength": 261
+  },
+  {
+    "name": "Metallic Bond (Silver)",
+    "strength": 260
+  }
+]
