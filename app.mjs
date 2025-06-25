@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 import fs from 'fs';
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 // __dirname workaround in ESM
 const __filename = fileURLToPath(import.meta.url);
@@ -84,6 +84,7 @@ app.get('/restart', (req, res) => {
   });
 });
 
-app.listen(port, () => {
-  console.log(`Game running at http://localhost:${port}`);
+// Listen on all interfaces (0.0.0.0)
+app.listen(port, '0.0.0.0', () => {
+  console.log(`Game running at http://35.214.127.232:${port}/`);
 });
