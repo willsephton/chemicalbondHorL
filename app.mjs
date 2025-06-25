@@ -54,13 +54,14 @@ app.get('/', (req, res) => {
 
 // Handle guess
 app.get('/guess/:choice', (req, res) => {
-  const { choice } = req.params;
+  const { choice } = req.params; // 'bond1' or 'bond2'
   const b1 = req.session.bond1;
   const b2 = req.session.bond2;
 
-  const isCorrect = (choice === 'higher')
-    ? b2.strength > b1.strength
-    : b2.strength < b1.strength;
+  // Determine which bond is stronger
+  const strongerBond = (b1.strength > b2.strength) ? 'bond1' : 'bond2';
+
+  const isCorrect = (choice === strongerBond);
 
   if (isCorrect) {
     req.session.score++;
@@ -76,6 +77,7 @@ app.get('/guess/:choice', (req, res) => {
     });
   }
 });
+
 
 // Restart game manually
 app.get('/restart', (req, res) => {
